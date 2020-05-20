@@ -1,3 +1,9 @@
+**Regularization** is done on the loss functions to avoid overfitting by the Model.
+
+**L1 Regularization (Lasso)** is done on L1 lossfunction which is the Mean Absolute Error.
+
+**L2 Regularization (Ridge)** is done on L2 lossfunction which is the Mean Squared Error.
+
 # Linear_Regression_Regularization
 Regularization of a Linear Regression Model. Both L1 and L2 regularization will be applied to the regressors.
 
